@@ -3,7 +3,7 @@
 
 [React Docs] (https://reactjs.org/docs/lifting-state-up.html#gatsby-focus-wrapper) using functions and hooks instead of the use of Classes.
 
-This little project is just a ### `translation`of the class aproach of code ondocumentation to the functional aproach, as its's the tendency of coding and people get used to this way; 
+This little project is just a `translation` of the class aproach of code on documentation to the functional aproach, as its's the tendency of coding and people get used to this way; 
 It comes to turn example more easy to undestand.  It's the implementation of the same functionality, but, now, using the facility of useSate hook to implement it.
 
 In the project directory, you can run:
