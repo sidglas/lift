@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Lifting State Up
+## Convertion of reactjs.org sample from class to function/hook way 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Implementation of the same code of [React Docs] (https://reactjs.org/docs/lifting-state-up.html#gatsby-focus-wrapper) using functions and hooks, rather than Classes.
+
+
+# Getting Started with Create React App
+This project was bootstrapped with [Create React App] (https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
