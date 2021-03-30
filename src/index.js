@@ -1,17 +1,32 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Link , BrowserRouter} from 'react-router-dom';
+
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+//
+import Input from './Input'
+import CalculatorDaDocumentacao from './CalculatorDaDocumentacao';
+import CalculatorFunction from './CalculatorFunction';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    Input
+    <Input />
+    <br />
+    
+    <BrowserRouter basename="/">
+      <Link to="https://www.freecodecamp.org/news/react-router-tutorial">About</Link>
+    </BrowserRouter>
+
+    https://reactrouter.com/web/api/Link
+    https://www.freecodecamp.org/news/react-router-tutorial/
+    <br />
+    CalculatorDaDocumentacao
+    <CalculatorDaDocumentacao />
+    <br /><br />
+    CalculatorFunction
+    <CalculatorFunction />
   </React.StrictMode>,
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
