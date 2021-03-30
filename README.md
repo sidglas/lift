@@ -1,7 +1,7 @@
 # Lifting State Up
-## Convertion of reactjs.org sample from class to function/hook way 
+## Replacement of sample replacing classes by function/hook on reactjs.org docs/sample about lifting
 
-Implementation of the same code of [React Docs] (https://reactjs.org/docs/lifting-state-up.html#gatsby-focus-wrapper) using functions and hooks, rather than Classes.
+[React Docs] (https://reactjs.org/docs/lifting-state-up.html#gatsby-focus-wrapper) using functions and hooks instead of the use of Classes.
 
 
 # Getting Started with Create React App
