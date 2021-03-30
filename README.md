@@ -1,5 +1,5 @@
 # Lifting State Up
-## Replacement of sample replacing classes by function/hook on reactjs.org docs/sample about lifting
+## Replacement of sample classes by function/hook on reactjs.org lifting docs/sample 
 
 [React Docs] (https://reactjs.org/docs/lifting-state-up.html#gatsby-focus-wrapper) using functions and hooks instead of the use of Classes.
 
