@@ -1,10 +1,11 @@
 # Lifting State Up
-## Replacement of sample classes by function/hook on reactjs.org lifting docs/sample 
+## Replacement of classes by function/hook on reactjs.org lifting docs/sample 
 
+original sample can be found on:
 [React Docs] (https://reactjs.org/docs/lifting-state-up.html#gatsby-focus-wrapper) using functions and hooks instead of the use of Classes.
 
-This little project is just a `translation` of the class aproach of code on documentation to the functional aproach, as its's the tendency of coding and people get used to this way; 
-It comes to turn example more easy to undestand.  It's the implementation of the same functionality, but, now, using the facility of useSate hook to implement it.
+This small project is a `translation` of the class aproach of code (used on documentation) to the functional aproach, as its's the tendence of coding and people get used to this way; 
+It comes to turn example more easy to undestand.  
 
 In the project directory, you can run:
 
