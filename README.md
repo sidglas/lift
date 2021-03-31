@@ -7,7 +7,7 @@ original sample can be found on:
 This small project is a `translation` of the class aproach of code (used on documentation) to the functional aproach, as its's the tendency of coding and people get used to this way; 
 It comes to turn example easier to undestand.  
 
-In the project directory, you can run:
+In the project directory run:
 
 ### `npm i`
 ### `npm start`
