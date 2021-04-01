@@ -9,8 +9,6 @@ function BoilingVerdict(props) {
 }
 
 function toCelsius(fahrenheit) {
-
-  console.log('na toceslsius')
   return (fahrenheit - 32) * 5 / 9;
 }
 
