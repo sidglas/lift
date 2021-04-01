@@ -4,9 +4,9 @@ import TemperatureInput from './TemperatureInput';
 
 function BoilingVerdict(props) {
   if (props.celsius >= 100) {
-    return <p>The water woulder boil.</p>;
+    return <p>The water would boil.</p>;
   }
-  return <p>The water woulder not boil.</p>;
+  return <p>The water would not boil.</p>;
 }
 
 function toCelsius(fahrenheit) {

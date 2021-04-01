@@ -3,9 +3,9 @@ import TemperatureInput from './TemperatureInput';
 
 function BoilingVerdict(props) {
   if (props.celsius >= 100) {
-    return <p>The water woulder boil.</p>;
+    return <p>The water would boil.</p>;
   }
-  return <p>The water woulder not boil.</p>;
+  return <p>The water would not boil.</p>;
 }
 
 function toCelsius(fahrenheit) {
@@ -30,7 +30,7 @@ function tryConvert(temperature, convert) {
   return rounded.toString();
 }
 
-class CalculatorDaDocumentacao extends React.Component {
+class CalculatorClass extends React.Component {
   constructor(props) {
     super(props);
     this.handleCelsiusChange = this.handleCelsiusChange.bind(this);
@@ -68,5 +68,5 @@ class CalculatorDaDocumentacao extends React.Component {
     );
   }
 }
-export default CalculatorDaDocumentacao;
+export default CalculatorClass;
 
